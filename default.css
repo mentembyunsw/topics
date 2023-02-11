@@ -268,7 +268,7 @@
 @media screen {
   body {
     font-size: 16px;
-    max-width: 50em;
+    max-width: 100%; /*50em;*/
     min-height: 100vh;
   }
   footer {
