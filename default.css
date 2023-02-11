@@ -129,7 +129,7 @@
   main a[href] {
     background-color: var(--unsw-yellow);
     border-radius: 1em;
-    color: white;
+    color: black;
     display: inline-block;
     font-family: "Roboto Mono";
     padding: 0.5em 1em;
