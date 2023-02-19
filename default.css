@@ -136,6 +136,11 @@
     text-decoration: none;
     word-break: break-all;
   }
+  mark.searched {
+    background-color: var(--unsw-blue);
+    color: white;
+    border-radius: 0.25em;
+  }
   p {
     text-align: justify;
   }
