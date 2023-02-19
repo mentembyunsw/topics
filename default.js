@@ -41,6 +41,15 @@ window.addEventListener('load', function(){
     delimiters: [{left: '$$', right: '$$', display: true}, {left: '$', right: '$', display: false}],
     throwOnError: false
   });
+  // Highlight text
+  const params = new URLSearchParams(window.location.search);
+  const param = params.get("s");
+  if (param) {
+    const regex = new RegExp(param, "gi");
+    document.querySelectorAll("header, main").forEach(elt => {
+      elt.innerHTML = elt.innerHTML.replace(regex, '<mark class="searched">$&</mark>');
+    });
+  }
   // Process runnable code
   /*
   var ajax = {};
