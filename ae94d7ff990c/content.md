@@ -1,0 +1,90 @@
+%% Critical thinking fundamentals %%
+
+# What critical thinking is
+
+It might seem surprising, but at a typical service station in Australia the cost of bottled water is about four times the cost of fuel.
+
+You can check for yourself: fuel is about 1.50 dollars per litre; bottled water is about 3.00 dollars for 500 mL, which is 6.00 dollars per litre, which is four times more than fuel.
+
+If you check for yourself in this way, rather than just taking our word for it, you're doing **critical thinking**. Critical thinking is the act of questioning and checking things, rather than just passively accepting them.
+
+# The need for critical thinking
+
+People are increasingly realising that we need to be critical thinkers, and that we don't do enough of it. Teachers, in particular, lament a lack of critical thinking in their students, who too readily accept what they read and hear.
+
+Why do we need to be critical thinkers? In an ideal world, we wouldn't - people would think the right things, say the right things, and do the right things. But in the actual world we don't. People make mistakes - we believe the wrong things, we say the wrong things, and we do the wrong things. People try to deceive us - they lie to us, and they mislead us, sometimes by accident but often intentionally. And people try to manipulate us (advertisers spring to mind).
+
+To make things worse, we suffer from a long list of cognitive shortcomings that psychologists have been discovering in recent decades (for an excellent account, see the book "Thinking, fast and slow", by the Nobel Prize winning psychologist Daniel Kahneman). Following are some of the things they've discovered.
+
+**We are cognitively lazy**. According to the Bible, how many animals of each kind did Moses take on the Ark? Did you say two? That's what many people say, even though the correct answer is none - it was Noah's Ark, not Moses'. We see the name "Moses" and think nothing of it - he's the right kind of person, at about the right kind of time, and we're lulled into thinking that everything's fine. In general, when things feel pleasant we tend to accept them. We are more likely to believe aphorisms that rhyme ("good health is above wealth"), and to accept things that are written in an easily legible font.
+
+**We are easily manipulated**. What continent is Kenya in? What are the colours in chess? Name an animal. Did you answer "zebra" to the third question? Many people do. We are primed by the first two questions to give that answer. We can be primed to walk more slowly, just by getting us to think about old people (the "Florida effect"), and we can be primed to agree with something, just by getting us to nod. The way options are framed can also influence us. Given the choice, would you prefer a dessert that contains 4% fat, or one that is 96% fat free? Many of us choose the latter, even though the two are the same. We can also be manipulated into giving, just by being given something first, and it need not be much (the Hare Krishnas made a lot of money by giving people a small flower, picked from the wild).
+
+**We get irrationally attached to things**. When we come to own something, we value it more than we did before we owned it (the "endowment effect"). We think that people who excel in one field of endeavour will also excel in others (the "halo effect") - advertisers prey on this when they use sporting stars to sell cars. When we spend money on a project we keep pursuing it doggedly, even if it's become a lost cause (the "sunk cost fallacy").
+
+**We are irrationally averse to things.** We dislike losses more than we like corresponding gains (losing 20 dollars brings us more pain than gaining 20 dollars brings us joy) ("loss aversion"). If we dislike someone's character then we find it hard to accept them being good at anything (would you accept that Hitler was a fine pianist?).
+
+**We lose perspective**. After an unfortunate but unforeseeable event we forget that it was impossible to predict, and blame ourselves for not seeing it coming ("hindsight bias"). We underestimate the role that chance played, and we overestimate the role that people played. This leads us to judge the quality of people's decisions on the basis of the outcomes, even though it is more rational to base it on the quality of the procedures used to make the decisions.
+
+**We are bad at statistics**. We think that samples represent their populations, even when the samples are very small. We think that events that are easy to recall or imagine are likely to occur, even if they are actually quite rare and unlikely (such as terrorist attacks).
+
+**We are bad at reasoning**. If one event is followed by another, we too quickly jump to the conclusion that the first event caused the second (the "post hoc fallacy"). If events of one kind are typically associated with events of another kind we too quickly conclude that events of one kind cause events of the other kind (the "cum hoc fallacy"). We are quick to find evidence in favour of things we'd like to be true, and we ignore evidence that goes against them ("confirmation bias").
+
+**We are overconfident**. We systematically think we are better than we actually are. This is perhaps the most worrying bias, because it makes it harder for us to see and accept our flaws.
+
+Critical thinking offers us protection - protection from what others think, say, and do, and protection from what we ourselves think, say, and do. When we think critically we help ourselves, and we often help others at the same time, by getting them to think critically too.
+
+# The limits of critical thinking
+
+Critical thinking is good, but we shouldn't always do it. 
+
+Suppose you're looking for new ways to do things at work. A good approach is to brainstorm ideas, and then whittle them down. Thinking critically during the brainstorming phase can stifle creativity, so it's best to leave that until the whittling-down phase.
+
+Suppose your partner arrives home, upset about something a colleague said to her. It's probably not a good idea for you to think critically about what she tells you. She might exaggerate, and she might have a biased take on what happened. But that's okay for now - she needs you to listen, and to validate her feelings, not to critically evaluate what she says.
+
+Suppose you're out to dinner with friends, enjoying casual conversation. You'd be annoying if you thought critically about what everyone said - it’s probably wisest not to do so.
+
+There are also times when we just have to trust people. It would be impractical, if not impossible, to get through life if we tried to check everything that everyone thought, said, or did.
+
+This doesn't mean we should trust indiscriminately. Some people are more trustworthy than others. How can you tell whether someone or something is trustworthy? Unfortunately, there's no easy way. It’s a complicated skill that takes a long time to develop, much like the skill of telling which adults can be trusted, which takes children a long time to learn (right into adulthood and continuing throughout life).
+
+There are various rules of thumb you might hear: that you can trust peer-reviewed academic papers; that you can trust government websites; that you cannot trust Wikipedia; that you cannot trust websites that use many colours and childish fonts; and so on. Be careful with these – they're just rules of thumb, and they can lead us astray. Wikipedia, for example, is a trustworthy source for many topics, and academics often use it and recommend it to their students.
+
+Along with developing your critical thinking skills you should develop a sense of when to use them. You’ll mostly have to figure this out as you go, by making mistakes, and learning from them. Keep in mind that we tend to think critically less often than we should, so if you’re in doubt then you should probably err on the side of doing it.
+
+# Questions
+
+[[[ A wine maker produced a million bottles of wine last year. To make it sound impressive, she claims that's enough to fill an Olympic swimming pool. Is she right?
+>>>
+No way. A bottle of wine is 750mL. So a million bottles of wine is 750,000 litres. An Olympic swimming pool is about 50m long by 25m wide by 2m deep. So it’s volume is about 2500 cubic metres. A cubic metre is 1000 litres. So the pool’s volume is about 2,500,000 litres. So a million bottles of wine won’t even come close to filling it.
+]]]
+
+[[[ You try a new study technique, and you do better than usual. You conclude that the new technique is effective. What mistake you might be making?
+>>>
+You might be committing the post hoc fallacy. Just because you used the new technique and then did better, that doesn't mean that the new technique caused you to do better. Any number of other things could have been the cause. In fact, you might have done even better if you *hadn't* used the new technique.
+]]]
+
+[[[ Your favourite author is a candidate in the upcoming election, and you think she'd be an excellent representative. What effect might this be an example of?
+>>>
+It might be an example of the halo effect. You shouldn’t assume that just because she is good at one thing (writing) she will be good at some other thing (being a councillor). We are prone to making this mistake.
+]]]
+
+[[[ The stock market crashes and you lose a lot of money; you blame yourself for not having seen the warning the signs. What bias might you be exhibiting?
+>>>
+You might be exhibiting hindsight bias. We are prone to thinking, in hindsight, that things were more predictable than they actually were (recall the old saying: ‘Hindsight is 20-20 vision’). When will the next stock market crash occur? We have no way of knowing – it is unpredictable. But when it happens we will probably look back and kick ourselves for not having predicted it.
+]]]
+
+[[[ You know that the vast majority of projects take much longer than planned, but you're confident that yours will be different. What bias might you be exhibiting?
+>>>
+You might be exhibiting overconfidence. We are prone to being overconfident in our ability to achieve things, and to thinking that we are different from other people. You *might* be different, but chances are you’re not.
+]]]
+
+[[[ An otherwise unmotivated friend tells you, with great enthusiasm, about his new idea for a business renting gardening tools. To what extent should you think critically about his idea?
+>>>
+You probably shouldn't be too critical, or else you might dampen his enthusiasm. If you can see problems with his idea, be supportive, and gently steer him in a better direction. 
+]]]
+
+[[[ Your work supervisor assures you that a small amount of plagiarism on the company website is acceptable. To what extent should you think critically about this?
+>>>
+You should think quite critically, because the stakes are high. Plagiarism is a serious wrong-doing.
+]]]
