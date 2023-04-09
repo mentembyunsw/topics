@@ -1,4 +1,4 @@
-%% Presentations: Tuning-in %%
+%% Presentations: Tuning-In %%
 
 In this topic, we will focus on the planning stages of your presentation. To do this we will review three aspects of a presentation:
 

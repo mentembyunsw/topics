@@ -1,4 +1,4 @@
-%% Presentations: Structuring ideas %%
+%% Presentations: Structuring Ideas %%
 
 In this topic, we will focus on structuring templates that will aid the organisation of complex information into logical, meaningful and memorable sequences.
 
@@ -85,7 +85,7 @@ Spend time brainstorming and plotting your speech. Here is a template you can us
 
 [Download a template](2fe8d049a280.docx)
 
-Look back over all of the 9 modules you have completed in this course and collate your ideas. 
+Look back over all of the 9 topics you have completed in this course and collate your ideas. 
 
 - What is your driving concept? 
 - Where can the different kinds of information that you have sourced to date, sit? 

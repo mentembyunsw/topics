@@ -1,8 +1,8 @@
-%% Presentations: the basics %%
+%% Presentations: The Basics %%
 
-The objective of the upcoming modules is to get you thinking about, and practicing, how you can be a better presenter. Not only will you have the opportunity to apply your improved presentation skills in your immediate work context, but you will also draw upon examples that are broader than work. These contexts might range from giving a wedding speech to, for instance, to mobilising your local sports club into collective action.
+The objective of the upcoming topics is to get you thinking about, and practicing, how you can be a better presenter. Not only will you have the opportunity to apply your improved presentation skills in your immediate work context, but you will also draw upon examples that are broader than work. These contexts might range from giving a wedding speech to, for instance, to mobilising your local sports club into collective action.
 
-The foundation of these modules is authenticity, which is the first and foremost key to developing your skills in speaking persuasively. To find your authentic voice you will be identifying with what you feel most connected to.
+The foundation of these topics is authenticity, which is the first and foremost key to developing your skills in speaking persuasively. To find your authentic voice you will be identifying with what you feel most connected to.
 
 # Authentic storytelling
 

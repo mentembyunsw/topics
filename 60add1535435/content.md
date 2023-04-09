@@ -104,7 +104,7 @@ Now listen to Megan's speech a second time. This time, as you listen read the fo
 
 **Analysis of Megan's speech**
 
-Megan Markle is presenting a pre-recorded speech that is designed to feel familiar and warm. A key difference from Obama’s speech is that Markle has to work much harder to show that she is responding to how her audience might be feeling – as they are not really there! Markle’s pauses are very strategic (she is a trained actor after all!) as is her body language (which we look at in the next modules). While Obama’s tone was largely jovial, Markle begins on a more sombre note, and this is reflected in her downward inflections as well as the increasing pace with which she delivers key sections. Notice how Markle’s downward inflections give her credibility and authority – and ‘de-feminise’ her, whereas Obama’s upward inflections do the opposite.
+Megan Markle is presenting a pre-recorded speech that is designed to feel familiar and warm. A key difference from Obama’s speech is that Markle has to work much harder to show that she is responding to how her audience might be feeling – as they are not really there! Markle’s pauses are very strategic (she is a trained actor after all!) as is her body language (which we look at in the next topics). While Obama’s tone was largely jovial, Markle begins on a more sombre note, and this is reflected in her downward inflections as well as the increasing pace with which she delivers key sections. Notice how Markle’s downward inflections give her credibility and authority – and ‘de-feminise’ her, whereas Obama’s upward inflections do the opposite.
 
 # Reflection
 
