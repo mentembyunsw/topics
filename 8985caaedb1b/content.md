@@ -135,7 +135,7 @@ Now it’s your turn to brainstorm some approaches that draw on techniques in or
 
 List all of the keywords – technical and other – that are currently focussed in your project approach. 
 
-Then, connect back to Module 2: TUNING IN – what did you record as your presentation aims?
+Then, connect back to the topic Tuning-In – what did you record as your presentation aims?
 
 Check what you wrote for the following provocations:
 

@@ -90,7 +90,7 @@ Logos, ethos and pathos are not just strategies that work in highly charged sett
 1. Appeal to the audience's intellect as well as their emotion (or sense of humour) by illustrating logos (facts) with (ethos/pathos) story
 1. Present yourself as a credible authority on the topic. You do this by commanding attention and conceiving of your proposal in narrative terms, something which social researcher Bene Brown has famously called **data with a soul**.
 
-In Module 3 you identified three aims for what you want your listeners to take away. Think back on what your responses were to the three prompts and decide:
+In Topic 3 you identified three aims for what you want your listeners to take away. Think back on what your responses were to the three prompts and decide:
 
 - Which one appeals to the intellect of the audience through to logos?
 - Which one appeals to the emotions of the audience through to pathos?
@@ -132,7 +132,7 @@ Paint a picture.
 
 How are you connected to the picture your words and facts are painting? 
 
-Recall your notes from Module 2 ‘Presence, Occasion, Address’. What are you invested in professionally:
+Recall your notes from Topic 2, ‘Presence, Occasion, Address’. What are you invested in professionally:
 
 - Customers?
 - The product? 
