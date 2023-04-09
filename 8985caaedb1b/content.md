@@ -10,17 +10,15 @@ Think of the way that a nursery rhyme sticks in your head. Or a piece of verse s
 
 'Orality' comes from what north American historian Walter Ong has called traditional ‘oral’ cultures. 'Oral' cultures are those that communicate without the printed word. In other words, speaking, listening and telling stories form the primary means of sharing knowledge. 
 
-
 **Words that are meant to be spoken**
 
 ‘Orality’ is a concept that describes words that are written to be spoken, and hence words that are written to be heard, listened to and remembered. 
-
 
 **Auditory conditions**
 
 'Orality' is connected to the auditory conditions of your audience: what, and how, they hear.
 
-# Be heard easily and remembered readily.
+# Be heard easily and remembered readily
 
 But the history of orality does not just remain in the past. Understanding the ways that people communicated before print is crucial to the choices you make when writing your own presentations.
 
@@ -31,6 +29,7 @@ This is because you want your words to be heard easily and remembered readily.
 Writing language that is designed to be spoken is different from writing a report, an analysis or an article. The objective of orality is to facilitate recall and recognition, to make stories easy to remember, and to make speeches easy to listen to and to report upon. And this applies to any speech, whatever the occasion, whether it is formal and serious, or light-hearted and enjoyable.
 
 ## Breaking down Ong's formula
+
 The techniques that Ong describes might seem strange but they are more familiar than you might realise. Now that you know, you will notice that they are used all the time in the world of advertising. 
 
 Review these three advertising campaigns to see how alliteration, assonance and rhythm are used in product slogans. 
@@ -38,18 +37,19 @@ Review these three advertising campaigns to see how alliteration, assonance and 
 **1. Alliteration: Snickers satisfies**
 
 Alliteration is the connection of words beginning with the same letter sound.  Watch this Snickers commercial to see how the brand used alliteration in the slogan "Snickers satisfies".
-<iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/morun5Dr0gg" title="Snickers - Satisfies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/morun5Dr0gg" title="Snickers - Satisfies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **2. Assonance: Beanz Meanz Heinz** 
 
-Assonance is the use of resemblance in word or syllable vowel sounds. Watch this Heinz commercial to see how the brand used assonance in the slogan "Beanz Meanz Heinz". 
-<iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/FbIGVRgXGwY" title="Beanz Meanz More  - Operation Beanz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Assonance is the use of resemblance in word or syllable vowel sounds. Watch this Heinz commercial to see how the brand used assonance in the slogan "Beanz Meanz Heinz".
 
+<iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/FbIGVRgXGwY" title="Beanz Meanz More  - Operation Beanz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **3. Rhythmically based sentence: Have a break, have a KitKat**
 
-Rhythmically balanced sentences, which may include repetition, are an excellent oration device. Watch this KitKat commercial to see how the brand has used rhythm in the slogan "Have a break, have a KitKat". 
+Rhythmically balanced sentences, which may include repetition, are an excellent oration device. Watch this KitKat commercial to see how the brand has used rhythm in the slogan "Have a break, have a KitKat".
+
 <iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/N7wB6C_PC38" title="KitKat - Remote Meeting Magic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Catchy slogans help the words roll off our tongues and cue us to remember that the solution to our problem is just a few words (and a purchase) away. 

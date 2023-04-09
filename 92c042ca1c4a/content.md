@@ -23,11 +23,11 @@ A key aspect that will underpin the persuasive dynamics of your presentation is 
 
 Commanding presenters make careful choices about their use of space to:
 
-- aid the clear communication of their message
-- model control of their material
-- encourage connection with, and buy-in, of listeners in the room
-- demonstrate ease and comfort of self
-- animate and visualise thinking processes and ideas.
+- Aid the clear communication of their message
+- Model control of their material
+- Encourage connection with, and buy-in, of listeners in the room
+- Demonstrate ease and comfort of self
+- Animate and visualise thinking processes and ideas.
 
 # Reading space
 
@@ -43,29 +43,31 @@ Let's look at some examples of how proxemics is used by presenters. You might re
 
 <iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/UIAm1g_Vgn0" title="The Muslim on the airplane | Amal Kassir | TEDxMileHighWomen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[[[Reveal Kassir's spatial map>>>
+[[[ Reveal Kassir's spatial map >>>
 
 Did your spatial map of Kassir's movements look something like this?
 
 ![](d07a4c321b1f.png)
+
 ]]]
 
 # Jennifer Granholm
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe loading="lazy" src="https://embed.ted.com/talks/lang/en/jennifer_granholm_a_clean_energy_proposal_race_to_the_top" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe loading="lazy" src="https://embed.ted.com/talks/lang/en/jennifer_granholm_a_clean_energy_proposal_race_to_the_top" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
 
-[[[Reveal Granholm's spatial map>>>
+[[[ Reveal Granholm's spatial map >>>
 
 Did your spatial map of Granholm's movements look something like this?
 
 ![](81a92d8d5ed1.png)
+
 ]]]
 
 # A summary of Granholm's speech
 
 If we bring this concept of spatial mapping together with what we learned in the prosody topic you will result the following correlations:
 
-[[[**Excerpt 1**: "I was introduced as the former Governor of Michigan but I’m actually a scientist.">>>
+[[[**Excerpt 1**: "I was introduced as the former Governor of Michigan but I’m actually a scientist." >>>
 - Rhetorical mode: Presence (who)
 - Prosody: 
     * Pauses for reflection / connection
@@ -78,7 +80,7 @@ If we bring this concept of spatial mapping together with what we learned in the
     * Stands centre stage
     * Moves stage right, stands]]]
 
-[[[**Excerpt 2**: "A political scientist .. and my laboratory was the laboratory of democracy. Like any good scientist I was experimenting with policy about what would achieve the greatest good for the greatest number.">>>
+[[[**Excerpt 2**: "A political scientist .. and my laboratory was the laboratory of democracy. Like any good scientist I was experimenting with policy about what would achieve the greatest good for the greatest number." >>>
 - Rhetorical mode: Ethos
 - Prosody: 
     * Alliteration ‘g’
@@ -90,7 +92,7 @@ If we bring this concept of spatial mapping together with what we learned in the
     * Moves stage left, stands
 ]]]
 
-[[[**Excerpt 3**: "But there were three problems that I could not solve. And I want to share with you those problems. But most importantly I think I figured out a proposal for the solution.">>>
+[[[**Excerpt 3**: "But there were three problems that I could not solve. And I want to share with you those problems. But most importantly I think I figured out a proposal for the solution." >>>
 - Rhetorical mode: Occasion (why)
 - Body language: 
     * Fingers count out each point – 1, 2, 3
@@ -199,23 +201,19 @@ Presenting on Zoom can feel strange as you have different tools are your disposa
 
 Take a moment to review what you have learned in this topic before we move on.
 
-[[[ Q1. According to Proxemics, how far should you stand from people in a public space?
->>>
+[[[ Q1. According to Proxemics, how far should you stand from people in a public space? >>>
 Over 3.6m away.
 ]]]
 
-[[[ Q2. According to Proxemics, how far should you stand from people in a personal space?
->>>
+[[[ Q2. According to Proxemics, how far should you stand from people in a personal space? >>>
 One handshake away.
 ]]]
 
-[[[ Q3. According to Proxemics, how far should you stand from people in a social space?
->>>
+[[[ Q3. According to Proxemics, how far should you stand from people in a social space? >>>
 About two arm lengths away.
 ]]]
 
-[[[ Q4. In the first rule of spatial awareness, what are the four steps you should take to own your physical space?
->>>
+[[[ Q4. In the first rule of spatial awareness, what are the four steps you should take to own your physical space? >>>
 - Evaluate the presentation setting
 - Decide which area is best for you
 - Delimit your space by staying within a designated zone

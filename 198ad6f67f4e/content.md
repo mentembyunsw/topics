@@ -21,10 +21,12 @@ This means that we want information that is: Faster, clearer and cleaner.
 In today's day and age, we are used to thinking in multiple channels. 
 
 Look around you:
+
 - How many screens do you have open right now? 
 - How many devices are you using?
 
-As presenters, we have to work hard to cut through the noise in order to get our point across. At the same time, public communication is more vital than ever. Here are a few core components to building human connections: 
+As presenters, we have to work hard to cut through the noise in order to get our point across. At the same time, public communication is more vital than ever. Here are a few core components to building human connections:
+
 - communicating with spoken rather than printed words
 - using physical presence, facial expressions and addressing other people in a shared space 
 - being familiar with communicating in physical and virtual environments.
@@ -35,12 +37,14 @@ If we do these things well, we will be better able to form judgements, evaluate 
 
 # Let's look at some examples
 
-Although the world is becoming increasingly digital, nothing can replace how authentic storytelling connects us to: 
+Although the world is becoming increasingly digital, nothing can replace how authentic storytelling connects us to:
+
 - ideas
 - causes 
 - values. 
 
 Let's look at three examples of astounding public speeches to have addressed our world stage in recent times. As you watch the following three videos consider the follwoing questions:
+
 1. What strategies have these speakers use to connect with their audience?
 2. How you can can learn from these speakers and their speeches?
 3. What secrets of success to these speakers hold?
@@ -52,11 +56,13 @@ In recent times, we have seen young people address world leaders with high level
 <iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/KAJsdgTPJpU" title="WATCH: Greta Thunberg's full speech to world leaders at UN Climate Action Summit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 2. A celebrity
+
 Celebrities have also used spoken communication platforms to call ‘time’s up’ on key issues. Watch this video in which Oprah Winfrey gives a heartfelt speech as the recipient of the Cecil B. deMille Award at the 2018 Golden Globes.
 
 <iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/LyBims8OkSY" title="Oprah Winfrey Receives the Cecil B. deMille Award - Golden Globes 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 3. A politician
+
 Politicians have also used the stage to mobilise action in new directions. Watch this video in which Barack Obama took the stage to deliver the keynote speech at the Democratic National Convention in Boston in 2004. A speech that some have referred to as the speech that made him president. 
 
 <iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/OFPwDe22CoY" title="The Speech that Made Obama President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

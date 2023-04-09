@@ -14,21 +14,10 @@ Your approach to non-verbal communication can vastly enhance your persuasive str
 
 In this topic we will focus on four aspects of non-verbal communication.
 
-**1. Posture**
-
-How you stand or sit. For example, whether your arms are crossed or shoulders are down
-
-** 2. Body movements**
-
-For example, hand gestures or nodding or shaking the head.
-
-**3. Facial expressions**
-
-For example, smiling, frowning and even blinking.
-
-**4. Eye contact**
-
-The amount of eye contact often determines the level of trust and trustworthiness of a speaker.
+1. **Posture**. How you stand or sit. For example, whether your arms are crossed or shoulders are down
+1. **Body movements**. For example, hand gestures or nodding or shaking the head.
+1. **Facial expressions**. For example, smiling, frowning and even blinking.
+1. **Eye contact**. The amount of eye contact often determines the level of trust and trustworthiness of a speaker.
 
 # Watch and think
 
@@ -86,7 +75,6 @@ It is important to note that in a world of diverse bodies and abilities there ar
 Kassir’s arms are very active. They energise her speech, they emphasise key points within it, while keeping the movement contained to a waist-height circle that does not distract the viewer away from her face nor dissipate energy down to the floor. 
 
 Kassir is here doing what experts in the book Talk Like TED by Carmine Gallo (2014) call the ‘gestural power sphere’. The 'gestural power sphere’ locates presentational ‘power’ in the upper body. To find it, the authors suggest you imagine: 
-
 
 - A circle that runs from the top of your eyes out to the tips of your outstretched hands, down to your belly button, and back up to your eyes again.
 

@@ -16,19 +16,11 @@ We have already looked at the characteristics of orality that make speeches perf
 
 According to Aristotle’s Poetics, there are three main ways you can make speeches persuasive. These are by employing the rhetorical strategies of logos, ethos or pathos. 
 
-**Logos**
+**Logos**. Logos refers to 'word'. Logos persuades audiences through the use of reason, respecting the role of evidence, logic, clarity, coherence.
 
-Logos refers to 'word'. Logos persuades audiences through the use of reason, respecting the role of evidence, logic, clarity, coherence.
+**Ethos**. Ethos refers to 'character'. Ethos persuades audiences through the character of the speaker, demonstrable through reputation, expertise, credibility and personality.
 
-
-**Ethos**
-
-Ethos refers to 'character'. Ethos persuades audiences through the character of the speaker, demonstrable through reputation, expertise, credibility and personality.
-
-
-**Pathos**
-
-Pathos refers to 'suffering'. Pathos persuades audiences by appealing to the emotions, arousing sympathy, stimulating imagination, identifying with traditions and beliefs.
+**Pathos**. Pathos refers to 'suffering'. Pathos persuades audiences by appealing to the emotions, arousing sympathy, stimulating imagination, identifying with traditions and beliefs.
 
 In addition to logos, ethos and pathos, scholars in communication explain that good rhetorical practice should also be: 
 
@@ -46,7 +38,7 @@ Watch the sections of two speeches that use rhetorical devices and note how the 
 
 As you watch answer the following questions:
 
-- How does the presenter create a sense of logic and reason, credibility and experience, empathy and emotion? 
+- How does the presenter create a sense of logic and reason, credibility and experience, empathy and emotion?
 - Can you see which is more heavily employed than the other? 
 - How are the speakers' approaches appropriate to the occasion of their delivery?
 
@@ -55,7 +47,6 @@ As you watch answer the following questions:
 Watch this speech by Cate Blanchett made at Gough Whitlam's funeral in 2014. Watch the speech up to 2:32 and see if you can identify examples of rhetorical devices used by Cate Blanchett.
 
 <iframe loading="lazy" width="638" height="359" src="https://www.youtube.com/embed/6uNhvvR6XKI" title="Cate Blanchett thanks Gough Whitlam for free education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 **Example 2: Noel Pearson (2014)**
 
@@ -67,28 +58,29 @@ You may have already identified the following examples, but take a moment now to
 
 When you have decided, reveal the answers to see if you were right. 
 
- [[[ I was filled with an inordinate sadness >>>
- Pathos
- ]]]
+[[[ I was filled with an inordinate sadness >>>
+Pathos
+]]]
  
- [[[ I am the beneficiary of good free healthcare >>>
- Ethos
- ]]]
+[[[ I am the beneficiary of good free healthcare >>>
+Ethos
+]]]
  
- [[[ Cutting tariff protections and no-fault divorce >>>
- Logos]]]
- 
- [[[ Apart from Medibank and the Trade Practices Act >>>
- Logos
- ]]]
- 
- [[[ I am the product of an Australia encouraged to explore its voice culturally >>>
- Ethos
- ]]]
- 
- [[[ A great sorrow >>>
- Pathos
- ]]]
+[[[ Cutting tariff protections and no-fault divorce >>>
+Logos
+]]]
+
+[[[ Apart from Medibank and the Trade Practices Act >>>
+Logos
+]]]
+
+[[[ I am the product of an Australia encouraged to explore its voice culturally >>>
+Ethos
+]]]
+
+[[[ A great sorrow >>>
+Pathos
+]]]
 
 # Applying rhetorical devices
 
@@ -98,20 +90,21 @@ Logos, ethos and pathos are not just strategies that work in highly charged sett
 1. Appeal to the audience's intellect as well as their emotion (or sense of humour) by illustrating logos (facts) with (ethos/pathos) story
 1. Present yourself as a credible authority on the topic. You do this by commanding attention and conceiving of your proposal in narrative terms, something which social researcher Bene Brown has famously called **data with a soul**.
 
-In Module 3 you identified three aims for what you want your listeners to take away. Think back on what your responses were to the three prompts and decide: 
+In Module 3 you identified three aims for what you want your listeners to take away. Think back on what your responses were to the three prompts and decide:
+
 - Which one appeals to the intellect of the audience through to logos?
 - Which one appeals to the emotions of the audience through to pathos?
 - Which one gives the audience cause to act by asking them to trust you through to ethos?
 
-[[[Does the prompt "I want my audience to feel ... about ..." refer to logos, pathos or ethos?>>>
+[[[Does the prompt "I want my audience to feel ... about ..." refer to logos, pathos or ethos? >>>
 Pathos
 ]]]
 
-[[[Does the prompt "I want my audience to understand ... about ..." refer to logos, pathos or ethos?>>>
+[[[Does the prompt "I want my audience to understand ... about ..." refer to logos, pathos or ethos? >>>
 Logos
 ]]]
 
-[[[Does the prompt "I want my audience to be moved to ... because ..." refer to logos, pathos or ethos?>>>
+[[[Does the prompt "I want my audience to be moved to ... because ..." refer to logos, pathos or ethos? >>>
 Ethos
 ]]]
 
@@ -121,7 +114,6 @@ Consider the following questions:
 - What information do you need to have at your disposal to support your claims? 
 - What kinds of stories sit behind that information? 
 
-
 **Logos**
 
 Make a list of all of the evidence-based information that can support your case. This can include data, expert opinions, case studies, statistics and bottom lines.  You might not have all of that information yet, but you can make a note about what kinds of information you will need to start sourcing.
@@ -130,7 +122,8 @@ Make a list of all of the evidence-based information that can support your case.
 
 If ‘stories are just data with a soul’, then, once you’ve made your list of potential stats and facts, make a second list about the kinds of stories that sit behind those stats and facts. If your stats and facts can show the difference between an efficient business process or not, then your stories should be able to do that too. 
 
-Paint a picture. 
+Paint a picture.
+
 - Who are the humans that connect to those processes (clients, staff, shareholders)? - Does the product experience or embody a journey that’s worth narrating? 
 - What are the stakes for the listeners in the room, of the improvement you seek to make? 
 - What kind of picture can you paint for them if the change you propose isn’t made? 

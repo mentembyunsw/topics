@@ -86,6 +86,7 @@ Finally, visit this [Cancer Council](https://www.cancer.org.au/blog/what-happens
 - Does it provide adequate evidence and information?
 
 # Reflection
+
 In the first two examples, the graphics index important points about the use of sunscreen and the risks associated with not using sunscreen.
 
 In example 3, however, a photographic image of sunburn indexes the physical process of increasing skin cancer risk. 

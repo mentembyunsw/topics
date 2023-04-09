@@ -2,7 +2,7 @@
 
 In this topic, we will focus on how aspects of prosody can enhance the vocal delivery of your presentation. The elements of prosody that we will review include intonation, stress, tempo, rhythm and pause.
 
-In this module we will shift focus from the ‘what’ of your speech to the ‘how’ of its delivery.
+In this topic we will shift focus from the ‘what’ of your speech to the ‘how’ of its delivery.
 
 - How your voice sounds
 - The pace of your speaking
@@ -142,18 +142,8 @@ Listen to the instructions for an activity to help you improve your vocal clarit
 You can use the following tongue twister rhymes to practice this activity.
 
 - The lips, the teeth, the tip of the tongue,the tip of the tongue, the teeth, the lips.
-
-
 - Red leather, yellow leather.
-
-
 - When tweedle beetles battle, with paddles in a puddle, they call it a tweedle beetle puddle paddle battle (Dr. Seuss).
-
-
 - Whether the weather be cold, or whether the weather be hot, whatever the weather, we'll weather the weather, whether we like it or not.
-
-
 - A box of biscuits, a box of mixed biscuits, and a biscuit mixer.
-
-
 - She sells seashells on the seashore.
