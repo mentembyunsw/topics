@@ -28,7 +28,7 @@ window.addEventListener('load', function(){
     document.getElementById("who").style.display = "none";
     //document.querySelector("header").style.display = "none";
     if (document.getElementById("reader")) document.getElementById("reader").style.display = "none";
-    document.querySelector("main").style.padding = 0;
+    document.querySelector("main").style.padding = "10px";
     //document.querySelector("main").style.paddingRight = "20px";
     document.querySelector("main").style.paddingTop = "20px";
     document.querySelector("footer").style.display = "none";
